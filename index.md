@@ -8,7 +8,7 @@ title: Julie Truckenbrod
 ## About Me
 {: .section-header}
 
-I'm a Software Engineering student at Michigan Technologial University. add more stuff about m 
+I'm a Software Engineering student at Michigan Technologial University. Currently seekings oppurtunities in software development or data science. 
 
 ### Technical Skills
 - **Languages**: Java, Python, SQL
