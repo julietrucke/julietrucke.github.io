@@ -38,4 +38,4 @@ I'm a Software Engineering student at Michigan Technologial University. Currentl
 - 📧 [Email](julie.truckenbrod@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/julie-truckenbrod-5280aa269)
 - 🔗 [GitHub](https://github.com/julietrucke)
-- 📄 [Download Resume (PDF)](/assets/JulieTruckenbrodResume.pdf)
+- 📄 [Download Resume (PDF)](assests/JulieTruckenbrodResume.pdf)
