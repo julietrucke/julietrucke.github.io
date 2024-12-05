@@ -27,8 +27,8 @@ I'm a Software Engineering student at Michigan Technologial University. Currentl
 - Features custom styling and dynamic content management
 - [View Source](https://github.com/yourusername/yourusername.github.io)
 
-### [Data1201 Repository]
-- Desccribe Project
+### Data1201 Repository
+- Github Repository Storing labs and projects for Explorations in Data Science
 - Technologies used: [Bash, Linux, Git]
 - [View Project](https://github.com/julietrucke/data1201)
 
