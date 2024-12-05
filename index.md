@@ -4,7 +4,7 @@ title: Julie Truckenbrod
 ---
 
 # Julie Truckenbrod
-![Julie Truckenbrod](/assets/images/ProffesionalPic.jpg){: .profile-image}
+![Julie Truckenbrod](/assets/images/ProffesionalPic.JPG){: .profile-image}
 ## About Me
 {: .section-header}
 
