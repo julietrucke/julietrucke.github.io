@@ -29,8 +29,8 @@ I'm a Software Engineering student at Michigan Technologial University. add more
 
 ### [Data1201 Repository]
 - Desccribe Project
-- Technologies used: [List relevant technologies]
-- [View Project] add link
+- Technologies used: [Bash, Linux, Git]
+- [View Project](https://github.com/julietrucke/data1201)
 
 ## Contact & Links
 {: .section-header}
@@ -38,4 +38,4 @@ I'm a Software Engineering student at Michigan Technologial University. add more
 - 📧 [Email](julie.truckenbrod@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/julie-truckenbrod-5280aa269)
 - 🔗 [GitHub](https://github.com/julietrucke)
-- 📄 [Download Resume (PDF)](/assets/JulieTruckenbrodresume.pdf)
+- 📄 [Download Resume (PDF)](/assets/JulieTruckenbrodResume.pdf)
