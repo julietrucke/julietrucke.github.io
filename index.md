@@ -4,7 +4,7 @@ title: Julie Truckenbrod
 ---
 
 # Julie Truckenbrod
-![Profile Picture](assests/images/ProffesionalPic.JPG){: .profile-image}
+![Profile Picture](assets/images/ProffesionalPic.JPG){: .profile-image}
 ## About Me
 {: .section-header}
 
@@ -38,4 +38,4 @@ I'm a Software Engineering student at Michigan Technologial University. Currentl
 - 📧 [Email](julie.truckenbrod@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/julie-truckenbrod-5280aa269)
 - 🔗 [GitHub](https://github.com/julietrucke)
-- 📄 [Download Resume (PDF)](assests/JulieTruckenbrodResume.pdf)
+- 📄 [Download Resume (PDF)](assets/JulieTruckenbrodResume.pdf)
